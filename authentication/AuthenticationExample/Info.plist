@@ -34,12 +34,20 @@
 				<string>com.googleusercontent.apps.593096289593-m84jnahg1kj47ngl33klt9gc2ep4nl9n</string>
 			</array>
 		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb229392704128166</string>
+			</array>
+		</dict>
 	</array>
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>FacebookAppID</key>
-	<string>Placeholder</string>
-	<key>FacebookDisplayName</key>
+	<string>229392704128166</string>
+	<key>FirebaseDemo</key>
 	<string>Dev</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
